@@ -1,0 +1,14 @@
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\bin\Debug\net6.0\thuchanh14.09.exe
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\bin\Debug\net6.0\thuchanh14.09.deps.json
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\bin\Debug\net6.0\thuchanh14.09.runtimeconfig.json
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\bin\Debug\net6.0\thuchanh14.09.dll
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\bin\Debug\net6.0\thuchanh14.09.pdb
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\obj\Debug\net6.0\thuchanh14.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\obj\Debug\net6.0\thuchanh14.09.AssemblyInfoInputs.cache
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\obj\Debug\net6.0\thuchanh14.09.AssemblyInfo.cs
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\obj\Debug\net6.0\thuchanh14.09.csproj.CoreCompileInputs.cache
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\obj\Debug\net6.0\thuchanh14.09.dll
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\obj\Debug\net6.0\refint\thuchanh14.09.dll
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\obj\Debug\net6.0\thuchanh14.09.pdb
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\obj\Debug\net6.0\thuchanh14.09.genruntimeconfig.cache
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\thuchanh14.09\thuchanh14.09\obj\Debug\net6.0\ref\thuchanh14.09.dll
